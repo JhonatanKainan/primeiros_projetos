@@ -1,0 +1,10 @@
+div{
+    border: solid 3px;
+    width: 200px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+}
